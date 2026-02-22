@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Documentos\2526-tareas_estructura_de_datos\Conjuntos\bin\Debug\net10.0\Conjuntos.exe
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Documentos\2526-tareas_estructura_de_datos\Conjuntos\bin\Debug\net10.0\Conjuntos.deps.json
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Documentos\2526-tareas_estructura_de_datos\Conjuntos\bin\Debug\net10.0\Conjuntos.runtimeconfig.json
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Documentos\2526-tareas_estructura_de_datos\Conjuntos\bin\Debug\net10.0\Conjuntos.dll
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Documentos\2526-tareas_estructura_de_datos\Conjuntos\bin\Debug\net10.0\Conjuntos.pdb
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Documentos\2526-tareas_estructura_de_datos\Conjuntos\obj\Debug\net10.0\Conjuntos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Documentos\2526-tareas_estructura_de_datos\Conjuntos\obj\Debug\net10.0\Conjuntos.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Documentos\2526-tareas_estructura_de_datos\Conjuntos\obj\Debug\net10.0\Conjuntos.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Documentos\2526-tareas_estructura_de_datos\Conjuntos\obj\Debug\net10.0\Conjuntos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Documentos\2526-tareas_estructura_de_datos\Conjuntos\obj\Debug\net10.0\Conjuntos.dll
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Documentos\2526-tareas_estructura_de_datos\Conjuntos\obj\Debug\net10.0\refint\Conjuntos.dll
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Documentos\2526-tareas_estructura_de_datos\Conjuntos\obj\Debug\net10.0\Conjuntos.pdb
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Documentos\2526-tareas_estructura_de_datos\Conjuntos\obj\Debug\net10.0\Conjuntos.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Documentos\2526-tareas_estructura_de_datos\Conjuntos\obj\Debug\net10.0\ref\Conjuntos.dll
